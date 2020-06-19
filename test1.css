@@ -32,3 +32,13 @@
 
 
 }
+
+.third:hover{
+    background-color: yellow;
+}
+
+
+
+.list1{
+    display: inline-block;
+}
