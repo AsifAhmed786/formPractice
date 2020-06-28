@@ -18,11 +18,18 @@ table, td, tr{
     width: 100px;
     height: 100px;
     background-color:red;
-    float: left;
+    /* float: left; */
 }
 .second{
     width: 100px;
     height: 100px;
     background-color: green;
-    float: left;
+    /* float: left; */
+}
+
+@media only screen and (max-width:600px)
+{
+    .second,.first{
+        float: left;
+    }
 }
