@@ -1,0 +1,28 @@
+p{
+    text-align: center;
+}
+table, td, tr{
+    border: 1px solid blue;
+    margin: 0 auto;
+    box-shadow: 2px 2px 1px grey;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.main1{
+    /* width: 100px;
+    height: 100px;
+    background-color: blue; */
+}
+.first{
+    width: 100px;
+    height: 100px;
+    background-color:red;
+    float: left;
+}
+.second{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    float: left;
+}
