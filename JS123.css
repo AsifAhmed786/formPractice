@@ -1,0 +1,28 @@
+/* .first{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    float: left;
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    z-index: -1;
+}
+.second{
+    width: 100px;
+    height: 100px;
+    background-color:blue;
+    float: left;
+}
+.third{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    float: left;
+} */
+/* .main1{
+    float: left;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+} */
