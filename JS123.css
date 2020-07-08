@@ -1,43 +1,13 @@
-/* .first{
-    width: 100px;
-    height: 100px;
-    background-color: red;
-    float: left;
-    position: absolute;
-    top: 50px;
-    left: 50px;
-    z-index: -1;
-}
-.second{
-    width: 100px;
-    height: 100px;
-    background-color:blue;
-    float: left;
-}
-.third{
-    width: 100px;
-    height: 100px;
-    background-color: green;
-    float: left;
-} */
-/* .main1{
-    float: left;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-} */
-/* .hidden{
-    display: none;
-}
-.fontChange{
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: bold;
+/* .colorful{
+    background-color: red   ;
 }
 
-.color1{
-    color: blue;
+.black{
+    color: black;
 } */
 
-/* .width1{
-    width: 100%;
-} */
+
+.color{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

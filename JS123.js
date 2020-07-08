@@ -1,17 +1,27 @@
 // function readMore(){
-//     var para1 = document.getElementById("para1");
-//     para1.innerHTML = "What is your name where are r u from please clear your outstanding amount as soon as possible"
-//     // para1.style.font = "em"
-//     para1.className = "fontChange color1"
+//     var p = document.getElementById("para1")
+//     var s = "Allah is great Allah Hu Akbar"
+//     p.innerHTML = s;
 // }
 
-// function zoom(){
-//     var img = document.getElementById("img1")
-//     img.className = "width1"
+// function changeColor(){
+//     alert("hello")
+//     var a = document.getElementById("para1");
+//     a.className = "colorful"
 // }
 
-var parent = document.getElementById("parent")
-var para = parent.getElementsByTagName("p");
-for(var i = 0; para.length; i++){
-    para[i].style.color = "red"
-}
+// function changeImage(){
+//     var a = document.getElementById("img1");
+//     a.src = "images/wp3.jpg"
+// }
+
+// function changeFont(){
+//     // alert("hello")
+//     var b = document.getElementById("para1");
+//     b.style.fontFamily = "Verdana, Geneva, Tahoma, sans-serif"
+// }
+
+// function changeColor(){
+//     var b = document.getElementById("para1");
+//     b.style.color = "red"
+// }
