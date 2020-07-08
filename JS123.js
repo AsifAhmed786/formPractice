@@ -25,3 +25,12 @@
 //     var b = document.getElementById("para1");
 //     b.style.color = "red"
 // }
+
+
+var i = document.getElementById("div1")
+var a = i.getElementsByTagName("p")
+for(var b = 0; b <a.length;b++){
+    a[b].style.color = "red"
+}
+
+
